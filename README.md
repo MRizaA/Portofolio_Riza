@@ -1,3 +1,24 @@
+# 
+<div align="center">
+
+![Portfolio Banner](https://img.shields.io/badge/🎯_MY_ACTIVE_PORTFOLIO-Click_Here!-ff6b6b?style=for-the-badge&labelColor=4ecdc4)
+
+### 👋 Hi there! Looking for my portfolio?
+
+This repository is an **experimental Laravel project** for learning purposes.
+
+**My main interactive portfolio** is live and ready to explore! 🚀
+
+<a href="https://mrizaa.github.io/portofolio-interaktif-gaya-visual-novel/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-Interactive_Visual_Novel_Style-success?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
+</a>
+
+<sub>Built with ❤️ featuring an interactive visual novel experience</sub>
+
+---
+
+</div>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
